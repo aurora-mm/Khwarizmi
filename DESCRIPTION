@@ -7,9 +7,9 @@ Authors@R: c(
     person("John", "Möller", email = "johmo@student.liu.se", role = "aut"))
 Maintainer: Linn F. <linfr259@student.liu.se>
 Description: This R package offers functionality for various implementations of 
-    algorithms addressing the knapsack problem. This package is a part of the 
-    coursework for the Advanced Programming in R course  (732A94) at Linköping 
-    University.
+    algorithms addressing the knapsack problem, both in R and C++. This package 
+    is a part of the coursework for the Advanced Programming in R course  (732A94) 
+    at Linköping University.
 License: GPL-2
 Suggests: 
     knitr,
