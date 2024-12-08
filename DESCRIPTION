@@ -3,9 +3,9 @@ Title: Various implementations of algorithms for solving the knapsack problem
 Version: 1.0
 Date: 2024-10-20
 Authors@R: c(
-    person("Linn", "Frisell", email = "linfr259@student.liu.se", role = "cre"),
+    person("Linn", "Friberg", email = "linn.friberg@pm.me", role = "cre"),
     person("John", "Möller", email = "johmo@student.liu.se", role = "aut"))
-Maintainer: Linn F. <linfr259@student.liu.se>
+Maintainer: Linn Friberg <linn.friberg@pm.me>
 Description: This R package offers functionality for various implementations of 
     algorithms addressing the knapsack problem, both in R and C++. This package 
     is a part of the coursework for the Advanced Programming in R course  (732A94) 
