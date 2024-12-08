@@ -4,7 +4,7 @@
 
 # Overview
 
-This [R](https://www.r-project.org) package offers functionality for various implementations of algorithms addressing the knapsack problem, both in R and C++. This package is a part of the coursework for the Advanced Programming in R course  (732A94) at Linköping University.
+This [R](https://www.r-project.org) package offers functionality for various implementations of algorithms addressing [the knapsack problem](https://en.wikipedia.org/wiki/Knapsack_problem), both in R and C++. This package is a part of the coursework for the Advanced Programming in R course  (732A94) at Linköping University.
 
 # Dependencies
 
